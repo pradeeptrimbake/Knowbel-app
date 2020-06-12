@@ -1,2 +1,6 @@
 # Knowbel-app
  An android app for Knowbel magazine (https://knowbel.wordpress.com).
+
+ We are a group of students from IISER Pune who have taken up a social initiative to educate the inquisitive young minds of India. We have come up with a free monthly E-Magazine, KNOWBEL, for the students of classes 8th and above. The magazine features latest scientific research, facts, general knowledge, inspiring stories, poems, quiz contests, puzzles and a lot more to spark the curiosity of students. We believe that it is extremely important to nurture this feeling of intrigue and make these young scholars pursue learning as a passion. KNOWBEL is an interactive magazine and a must-read for all those bubbling brains out there.
+
+This is a completely independent non-profit project which is not funded in any manner. As we seek to make the best content accessible to all students, no membership fee is charged and interested volunteers can sign up for the magazine completely free of cost. They can subscribe by merely registering themselves on our form by using their email addresses. As we strive to provide students with the choicest material to dwell upon, we would greatly appreciate any donations you can make to support this noble cause.
