@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "788497541963",
+    "firebase_url": "https://knowbel.firebaseio.com",
+    "project_id": "knowbel",
+    "storage_bucket": "knowbel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788497541963:android:e296fae7ca2a8f257656ce",
+        "android_client_info": {
+          "package_name": "com.imfast.knowbel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788497541963-etk8l57k6dqv0fisan5vpkt4sodepsrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRKdxB0iqBMAO1hbUbwVb1FU_WmvRsWR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788497541963-etk8l57k6dqv0fisan5vpkt4sodepsrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
